@@ -1,0 +1,47 @@
+body {
+	background-color:pink;
+}
+
+.knapp{
+	width: 250px;
+	height: 60px;
+	background-color: blue;
+	display: inline-block;
+	text-align:center;
+	color: black;
+	padding-top: 20px;
+	border:3px solid;
+	border-color:black;
+
+}
+ 
+ a{
+	color: black;
+	font-size: 22px;
+	font-family: sans-serif;
+
+}
+
+h1{
+	font-size: 70px;
+	font-family: sans-serif;
+	color:black;
+	text-align:center;
+
+}
+
+.text {
+	font-size: 22px;
+	color:black;
+	font-family: sans-serif;
+	text-align: center; 
+}
+
+.storbild{
+	 display: block;
+	 margin:0 auto;
+	 padding: 50px 0px 50px 0px;
+	 width: 500px
+
+
+}
